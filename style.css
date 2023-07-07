@@ -196,7 +196,6 @@ header {
   transition: transform 0.5s ease-in-out;
 }
 
-
 .social-media-links a img:hover {
   transform: scale(1.2);
 }
